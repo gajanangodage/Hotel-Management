@@ -1,0 +1,159 @@
+.head{
+    display: inline;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    margin-right: 20px;
+}
+.head a{
+    color: black;
+}
+#space{
+    margin-left: 350px;
+}
+#button{
+    word-spacing: normal;
+}
+#header{
+    background-color: azure;
+    margin-top: 10px;
+}
+#vacation{
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 100px;
+    margin-bottom: 0%;
+}
+#booking{
+    font-weight: bold;
+}
+#icons{
+    font-size: 100px;
+}
+/*#icons li {
+    display: inline;
+    margin-left: 0px;
+}*/
+.text{
+    font-size: medium;
+}
+#bg
+{
+    background-color: rgb(139, 139, 227);
+    font-size: 50px;
+}
+#edit{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+    font-size: medium;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    letter-spacing: 10px;
+}
+#guides{
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 0px;
+    font-weight: bolder;
+    letter-spacing: -1px;
+}
+#images{
+    margin-left: 200px;
+}
+#soon{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+    font-size: medium;
+    margin-top: 100px;
+    margin-left: 100px;
+    letter-spacing: 5px;
+}
+#deals{
+    font-size: 40px;
+    margin-left: 100px;
+    font-weight: bolder;
+    letter-spacing: -1px;
+}
+#mid{
+    font-weight: bolder;
+    font-size: 25px;
+}
+#house{
+    font-size: medium;
+    font-weight: lighter;
+}
+#doller{
+    font-size: 30px;
+    font-weight: bolder;
+}
+/***** Section *****/
+
+
+/***** End Section *****/
+#test{
+    margin-top: 200px;
+    font-size: large;
+    letter-spacing: 8px;
+    font-weight: 500;
+}
+#dear{
+    font-weight: 800;
+    font-size: xx-large;
+}
+ul .inline{
+    display: inline-block;margin-left: 140px;
+}
+#testimonials{
+    margin-left: 80px;
+}
+#see{
+    margin-left: 90px;
+}
+#stories{
+    font-size: larger;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-top: 30px;
+    letter-spacing: 5px;
+    margin-bottom: 0px;
+}
+#blog{
+    margin-left: 50px;
+    font-weight: 900;
+    font-size: 40px;
+    margin-top: 0%;
+}
+#OIP{
+    margin-left: 50px;
+}
+#cardinside{
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+.directory{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+#symbols{
+    font-weight: 900;
+    font-size: 40px;
+    margin-left: 30px;
+    color: aliceblue;
+    margin-top: 100px;
+}
+#Copywrite{
+    font-size: x-large;
+    margin-left: 20px;
+    color: aliceblue;
+    margin-top: 100px;
+}
+/***** Section *****/
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+/***** End Section *****/
